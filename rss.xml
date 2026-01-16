@@ -5,14 +5,14 @@
     <link></link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 16 Jan 2026 04:46:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 06:57:23 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.aidata.workers.dev/rss" rel="self" type="application/rss+xml" />
     
         <item>
           <title><![CDATA[2026-01-16日刊]]></title>
           <link>/2026-01/2026-01-16/</link>
           <guid>/2026-01/2026-01-16/</guid>
-          <pubDate>Fri, 16 Jan 2026 12:46:28 GMT</pubDate>
+          <pubDate>Fri, 16 Jan 2026 14:57:22 GMT</pubDate>
           <content:encoded><![CDATA[<h2>AI洞察日报 2026/1/16</h2><blockquote><p><code>AI 日报</code></p></blockquote><h3><strong>今日摘要</strong></h3><pre><code>一个项目让Go 1.24代码在Windows XP上运行，引发旧系统维护讨论。AWS推出欧洲主权云以满足数据需求，但被质疑仍受美国法律影响。美国药监局发布临床试验采用贝叶斯方法的指导文件，旨在统一标准但引发滥用担忧。
 </code></pre><h3><strong>今日AI资讯</strong></h3><ol><li><p>一个名为 <strong>Go-legacy-winxp</strong> 的项目旨在让 <strong>Go 1.24</strong> 代码在 <strong>Windows XP</strong> 上编译运行，引发了关于旧系统维护的讨论。评论指出，存在一个活跃的 <strong>Windows XP</strong> 爱好者社区，他们出于怀旧、对经典用户体验的偏好以及对现代系统臃肿的不满，持续维护着安全补丁、替代浏览器（如 <strong>MyPal</strong>）和第三方客户端。</p></li><li><p>技术上，用户分享了在旧系统上构建现代代码的实际路径，例如使用 <strong>w64devkit</strong> 的 32 位版本、针对 <strong>Win9x/XP</strong> 的 <strong>MINGW-toolchains-w9x</strong> 以及将 <strong>.NET 10</strong> 移植到 <strong>XP</strong> 的 <strong>Win32Dotnet10Starter</strong> 项目。讨论还提到，实现此类兼容往往需要在运行时层面进行细粒度补丁，而不仅仅是更改编译目标。</p></li><li><p><strong>AWS</strong> 推出了 <strong>AWS European Sovereign Cloud</strong>，宣称由欧洲实体独立运营以满足数据主权需求。评论对此提出质疑，焦点在于司法管辖与所有权风险：即使运营独立，母公司仍在美国，可能受美国法律约束，且底层软件栈的代码来源和开发人员可能仍由美国团队主导。</p></li><li><p>另一方面，有观点认为设立本地运营实体和团队，结合欧洲本地法律，能在实操层面形成阻断，使总部的不合法指令难以执行。讨论普遍认为，该产品的主要价值在于满足政府采购的合规需求，是一种市场工具，但无法从根本上消除对<strong>美国中心化</strong>私有技术栈的系统性依赖。</p></li><li><p>美国<strong>食品药品监督管理局</strong>发布了一份关于在药物与生物制品<strong>临床试验</strong>中采用<strong>贝叶斯方法</strong>的指导文件。讨论认为，该指导有助于统一监管审评标准，减少随意性。贝叶斯方法因其能纳入先验信息、支持自适应设计并可能节省样本量而受到关注，制药公司有商业动力采用。</p></li><li><p>同时，评论也表达了对方法滥用的担忧，特别是<strong>先验分布</strong>可能被操纵以影响小样本试验的结论，并质疑监管机构是否具备足够的专业能力进行细致审查。此外，有评论指出该指导文件未提及<strong>因果推断</strong>，而这一相邻领域对试验设计和结果解释同样至关重要。</p></li></ol>]]></content:encoded>
           <description><![CDATA[AI洞察日报 2026/1/16 AI 日报 今日摘要 一个项目让Go 1.24代码在Windows XP上运行，引发旧系统维护讨论。AWS推出欧洲主权云以满足数据需求，但被质疑仍受美国法律影响。美国药监局发布临床试验采用贝叶斯方法的指导文件，旨在统一标准但引发滥用担忧。 今日AI资讯 一个名为 Go-legacy-winxp 的项目旨在让 Go 1.24 代码在 Windows XP 上编译运行]]></description>
